@@ -1,0 +1,6 @@
+C:\Users\mayongfen\Desktop\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\mayongfen\Desktop\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\mayongfen\Desktop\Bluetooth\Bluetooth\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mayongfen\Desktop\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.exe
+C:\Users\mayongfen\Desktop\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.pdb
+C:\Users\mayongfen\Desktop\Bluetooth\Bluetooth\bin\Debug\InTheHand.Net.Personal.xml
